@@ -1,0 +1,5 @@
+{
+  "cflags": "-g",
+  "ldflags": "",
+  "main": "main.c"
+}
