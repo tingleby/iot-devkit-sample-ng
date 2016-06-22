@@ -5,7 +5,7 @@
   "description": "This project template includes the starting code needed to use the various sensors that come with the Grove Starter Kit. Update the temperature values and send the changes to IBM* Bluemix.\n\nFirst steps:\nGo to https://quickstart.internetofthings.ibmcloud.com/#/ and enter the MAC address or another name for the DEVICE ID. Replace the placeholder {DEVICE ID} for the DEVICE ID below in the client ID.\nRun the example and check the results at:\nhttps://quickstart.internetofthings.ibmcloud.com/#/device/{DEVICE ID}/sensor/ \n\n* Other names and brands may be claimed as the property of others.",
   "date": "2016-11-04",
   "platform" : {
-    "hw-req" : ["gpio", "adc"],
+    "hwreq" : ["gpio", "adc"],
     "libs": ["upm", "paho"]
   }
 }
