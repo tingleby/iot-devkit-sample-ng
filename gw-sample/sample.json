@@ -1,0 +1,11 @@
+{
+  "name": "A Gateway only sensor",
+  "category": "Basic",
+  "description": "A simple Hello World example",
+  "author": "Intel Corporation",
+  "date": "2016-01-01",
+  "platform": {
+    "compatible": ["gateway","orAnother"]
+  }
+}
+

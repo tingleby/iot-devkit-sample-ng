@@ -1,0 +1,7 @@
+{
+  "cflags": "-g",
+  "cxxflags": "-g",
+  "ldflags": "-lmraa",
+  "main": "main.c"
+
+}
