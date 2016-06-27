@@ -7,6 +7,33 @@
   "platform" : {
     "hwreq" : ["gpio", "adc"],
     "libs": ["upm", "paho"]
-  }
+  },
+  "additional_fields": [
+    { 
+      "id":"device_id",
+      "name":"Device id",
+      "description":"Registered device id"
+    },
+    { 
+      "id":"device_type",
+      "name":"Device Type",
+      "description":"The device type id"
+    },
+    { 
+      "id":"organization_id",
+      "name":"Org id",
+      "description":"The organization id"
+    },
+    { 
+      "id":"username",
+      "name":"Username",
+      "description":"The organization id"
+    },
+    { 
+      "id":"password",
+      "name":"Password",
+      "description":"Password created during the device registration"
+    }
+  ]
 }
 
